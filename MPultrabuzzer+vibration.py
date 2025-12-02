@@ -15,11 +15,11 @@ ECHO3 = 40
 BuzzerPin = 13
 BuzzerPin2 = 18
 
-beepDistance = 10
-buzzDistance = 5
+beepDistance = 20
+buzzDistance = 20
 
 vibrate = 36
-vibrate2 = 32
+vibrate2 = 36
 
 #beep_interval = 2
 
